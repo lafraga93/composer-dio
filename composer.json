@@ -1,0 +1,18 @@
+{
+    "name": "lafraga93/composer-dio",
+    "description": "Estudando Composer",
+    "autoload": {
+        "psr-4": {
+            "Lafraga93\\ComposerDio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Fraga",
+            "email": "gustavolafraga@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
